@@ -1,6 +1,10 @@
 streamlit
 pandas
 requests
-xmltodict
 plotly
-openpyxl
+supabase
+beautifulsoup4
+feedparser
+folium
+streamlit-folium
+xmltodict
