@@ -46,7 +46,7 @@ REA는 부동산 컨설턴트와 실무자들이 겪는 '데이터의 파편화'
 ---
 
 ## 🏗 System Architecture
-> Data Pipeline: `MOLIT API / Google RSS` → `Python Engine` → `Streamlit UI` ↔ `Supabase DB`
+> Data Pipeline: `국토교통부 API / Google RSS` → `Python Engine` → `Streamlit UI` ↔ `Supabase DB`
 
 ```mermaid
 graph LR
