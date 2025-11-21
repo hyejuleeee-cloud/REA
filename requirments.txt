@@ -1,10 +1,11 @@
 streamlit
 pandas
 requests
+xmltodict
 plotly
 supabase
 beautifulsoup4
 feedparser
 folium
 streamlit-folium
-xmltodict
+lxml
